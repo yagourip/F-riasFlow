@@ -1,0 +1,6 @@
+{
+  "name": "FériasFlow - Gestão & Aprovação de Férias",
+  "description": "Sistema corporativo completo de solicitação e aprovação automatizada de férias para médias empresas integrado com Supabase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
